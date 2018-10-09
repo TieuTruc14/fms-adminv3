@@ -1,0 +1,131 @@
+{
+
+    "header" : {
+        "navbar" : {
+            "UPLOAD" : "Tải lên",
+            "new" : {
+                "NEW" : "Mới",
+                "PROJECT" : "Dự án",
+                "TASK" : "Nhiệm vụ",
+                "USER" : "Người dùng",
+                "EMAIL" : "Email"
+            },
+            "NOTIFICATIONS" : "Thông báo"
+        }
+    },
+    "aside" : {
+        "contents": {
+            "productions": {
+                "productions": "Quản lý sản xuất",
+                "devices": "LÔ THIẾT BỊ",
+                "add":"Thêm",
+                "addDevice":"THÊM LÔ THIẾT BỊ"
+            },
+            "customers":{
+                "customers":"Quản lý khách hàng"
+            },
+            "support":{
+                "supportCustomer":"Hỗ trợ khách hàng"
+
+            },
+            "install":{
+              "install":"Quản lý lắp đặt"
+            },
+            "enable":{
+                "enable":"Quản lý kích hoạt"
+            },
+            "configuration":{
+                "configuration":"Thông tin cấu hình"
+            },
+            "guarantee":{
+                "guarantee":"Bảo hành thiết bị"
+            },
+            "maintenance":{
+                "maintenance":"Bảo trì thiết bị"
+            },
+            "reports":{
+                "reports":"Báo cáo"
+            },
+            "authorities":{
+                "authorities":"Phân quyền"
+            },
+            "lists":{
+                "lists":"Quản lý danh mục",
+                "Administrative":"Hành chính",
+                "Vehicle":"Loại xe/phương tiện",
+                "Manufactures":"Nhà sản xuất",
+                "TransportationType":"Loại hình vận tải",
+                "FwvVersion":"Phiên bản Fwv",
+                "HwvVersion":"Phiên bản Hwv",
+                "ContractType":"Loại hợp đồng",
+                "ContractStatus":"Tình trạng hợp đồng",
+                "CustomerType":"Loại khách hàng",
+                "CustomerSim":"Thuê bao khách hàng",
+                "SupportType":"Loại hỗ trợ",
+                "SupportStatus":"Trạng thái hỗ trợ",
+                "CycleErrors":"Cấu hình thời gian gửi lỗi dữ liệu",
+                "Components":"Linh kiện",
+                "GuaranteeStatus":"Trạng thái bảo hành",
+                "ErrorType":"Loại lỗi",
+                "LicenseType":"Loại bằng lái xe"
+
+            }
+        },
+        "nav" : {
+            "HEADER" : "Navigation",
+            "DASHBOARD" : "Bảng đồng bộ",
+            "CALENDAR" : "Lịch",
+            "EMAIL" : "Email",
+            "WIDGETS" : "Ngẫu nhiên",
+            "components" : {
+                "COMPONENTS" : "Linh kiện",
+
+                "ui_kits" : {
+                    "UI_KITS" : "Kho tài nguyên",
+                    "BUTTONS" : "Nút bấm",
+                    "ICONS" : "biểu tượng",
+                    "GRID" : "Grid",
+                    "BOOTSTRAP" : "Bootstrap",
+                    "SORTABLE" : "Sortable",
+                    "PORTLET" : "Portlet",
+                    "TIMELINE" : "Timeline",
+                    "VECTOR_MAP" : "Vector Map"
+                },
+
+                "table" : {
+                    "TABLE" : "Bảng biểu",
+                    "TABLE_STATIC" : "Bảng tĩnh",
+                    "DATATABLE" : "Bảng dữ liệu",
+                    "FOOTABLE" : "Kết bảng"
+                },
+                "form" : {
+                    "FORM" : "Biểu mẫu",
+                    "FORM_ELEMENTS" : "Yếu tố biểu mẫu",
+                    "FORM_VALIDATION" : "Biểu mẫu xác nhận",
+                    "FORM_WIZARD" : "Dạng winrar"
+                },
+                "CHART" : "Biểu đồ",
+                "pages" : {
+                    "PAGES" : "Danh mục trang",
+                    "PROFILE" : "hồ sơ",
+                    "POST" : "Trang",
+                    "SEARCH" : "Tìm kiếm",
+                    "INVOICE" : "Hóa đơn",
+                    "LOCK_SCREEN" : "Lock screen",
+                    "SIGNIN" : "Signin",
+                    "SIGNUP" : "Signup",
+                    "FORGOT_PASSWORD" : "Quên mật khẩu",
+                    "404" : "404"
+                }
+            },
+            "your_stuff" : {
+                "YOUR_STUFF": "Your Stuff",
+                "PROFILE" : "Profile",
+                "DOCUMENTS" : "Documents"
+            }
+        },
+        "MILESTONE" : "Milestone",
+        "RELEASE" : "Phát hành"
+    }
+
+}

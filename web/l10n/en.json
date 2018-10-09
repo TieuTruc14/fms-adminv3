@@ -1,0 +1,131 @@
+{
+
+"header" : {
+  "navbar" : {
+    "UPLOAD" : "Upload",
+    "new" : {
+      "NEW" : "New",
+      "PROJECT" : "Projects",
+      "TASK" : "Task",
+      "USER" : "User",
+      "EMAIL" : "Email"
+    },
+    "NOTIFICATIONS" : "Notifications"
+  }
+},
+"aside" : {
+   "contents": {
+       "productions": {
+           "productions": "Productions",
+           "devices": "DEVICES",
+           "add":"Add",
+           "addDevice":"ADD DEVICES"
+       },
+       "customers":{
+           "customers":"Customer "
+       },
+       "support":{
+           "supportCustomer":"Support"
+
+       },
+       "install":{
+           "install":"Install Device"
+       },
+       "enable":{
+           "enable":"Enable"
+       },
+       "configuration":{
+           "configuration":"Configuration"
+       },
+       "guarantee":{
+           "guarantee":"Guarantee"
+       },
+       "maintenance":{
+           "maintenance":"Maintenance"
+       },
+       "reports":{
+           "reports":"Reports"
+       },
+       "authorities":{
+           "authorities":"Authorities"
+       },
+       "lists":{
+           "lists":"List management",
+           "Administrative":"Administrative",
+           "Vehicle":"Vehicle/Engine",
+           "Manufactures":"Manufactures",
+           "TransportationType":"Transportation type",
+           "FwvVersion":"FirmWare version",
+           "HwvVersion":"Hardware version",
+           "ContractType":"Contract type",
+           "ContractStatus":"Contract status",
+           "CustomerType":"Customer type",
+           "CustomerSim":"Customer sim",
+           "SupportType":"Support sype",
+           "SupportStatus":"Support status",
+           "CycleErrors":"Config cycle data errors",
+           "Components":"Components",
+           "GuaranteeStatus":"Guarantee status",
+           "ErrorType":"Error type",
+           "LicenseType":"License type"
+
+       }
+   },
+  "nav" : {
+    "HEADER" : "Navigation",
+    "DASHBOARD" : "Dashboard",
+    "CALENDAR" : "Calendar",
+    "EMAIL" : "Email",
+    "WIDGETS" : "Widgets",
+    "components" : {
+      "COMPONENTS" : "Components",
+
+      "ui_kits" : {
+        "UI_KITS" : "UI Kits",
+        "BUTTONS" : "Buttons",
+        "ICONS" : "Icons",
+        "GRID" : "Grid",
+        "BOOTSTRAP" : "Bootstrap",
+        "SORTABLE" : "Sortable",
+        "PORTLET" : "Portlet",
+        "TIMELINE" : "Timeline",
+        "VECTOR_MAP" : "Vector Map"
+      },
+
+      "table" : {
+        "TABLE" : "Table",
+        "TABLE_STATIC" : "Table static",
+        "DATATABLE" : "Datatable",
+        "FOOTABLE" : "Footable"
+      },
+      "form" : {
+        "FORM" : "Form",
+        "FORM_ELEMENTS" : "Form elements",
+        "FORM_VALIDATION" : "Form validation",
+        "FORM_WIZARD" : "Form wizard"
+      },
+      "CHART" : "Chart",
+      "pages" : {
+        "PAGES" : "Pages",
+        "PROFILE" : "Profile",
+        "POST" : "Post",
+        "SEARCH" : "Search",
+        "INVOICE" : "Invoice",
+        "LOCK_SCREEN" : "Lock screen",
+        "SIGNIN" : "Signin",
+        "SIGNUP" : "Signup",
+        "FORGOT_PASSWORD" : "Forgot password",
+        "404" : "404"
+      }
+    },
+    "your_stuff" : {
+      "YOUR_STUFF": "Your Stuff",
+      "PROFILE" : "Profile",
+      "DOCUMENTS" : "Documents"
+    }
+  },
+  "MILESTONE" : "Milestone",
+  "RELEASE" : "Release"
+}
+
+}
